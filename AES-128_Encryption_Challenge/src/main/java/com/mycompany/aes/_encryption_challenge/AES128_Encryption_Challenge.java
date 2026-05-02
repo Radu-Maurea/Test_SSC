@@ -33,7 +33,7 @@ public class AES128_Encryption_Challenge {
             Cipher myAES = Cipher.getInstance("AES/ECB/PKCS5Padding");
             myAES.init(Cipher.ENCRYPT_MODE, myKey);
             
-            byte plaintext[] ={0x01,0x02,0x03,0x04,0x05,0x06,0x07,0x08,0x09,0x0A,0x0B,0x0C,0x0D,0x0E,0x0F};
+            byte plaintext[] ={0x01,0x02,0x03,0x04,0x05,0x06,0x07,0x08,0x09,0x0A,0x0B,0x0C,0x0D,0x0F};
             byte criptotext[] = new byte[16];
             
             int cLength = myAES.update(plaintext,0,plaintext.length,criptotext,0);
@@ -43,7 +43,7 @@ public class AES128_Encryption_Challenge {
             System.out.println("criptotext: "+HexFormat.of().formatHex(criptotext));
             
             myAES.init(Cipher.DECRYPT_MODE,myKey);
-            byte[] dec_plaintext = new byte[16];
+            byte[] dec_plaintext = new byte[plaintext.length];
             
             cLength = myAES.update(criptotext,0,cLength,dec_plaintext,0);
             cLength += myAES.doFinal(dec_plaintext,cLength);
