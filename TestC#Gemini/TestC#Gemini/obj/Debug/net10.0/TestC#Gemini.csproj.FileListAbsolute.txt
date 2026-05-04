@@ -1,0 +1,15 @@
+D:\scoala\Test_ssc\TestC#Gemini\TestC#Gemini\obj\Debug\net10.0\TestC#Gemini.GeneratedMSBuildEditorConfig.editorconfig
+D:\scoala\Test_ssc\TestC#Gemini\TestC#Gemini\obj\Debug\net10.0\TestC#Gemini.AssemblyInfoInputs.cache
+D:\scoala\Test_ssc\TestC#Gemini\TestC#Gemini\obj\Debug\net10.0\TestC#Gemini.AssemblyInfo.cs
+D:\scoala\Test_ssc\TestC#Gemini\TestC#Gemini\obj\Debug\net10.0\TestC#Gemini.csproj.CoreCompileInputs.cache
+D:\scoala\Test_ssc\TestC#Gemini\TestC#Gemini\obj\Debug\net10.0\TestC#Gemini.sourcelink.json
+D:\scoala\Test_ssc\TestC#Gemini\TestC#Gemini\bin\Debug\net10.0\TestC#Gemini.exe
+D:\scoala\Test_ssc\TestC#Gemini\TestC#Gemini\bin\Debug\net10.0\TestC#Gemini.deps.json
+D:\scoala\Test_ssc\TestC#Gemini\TestC#Gemini\bin\Debug\net10.0\TestC#Gemini.runtimeconfig.json
+D:\scoala\Test_ssc\TestC#Gemini\TestC#Gemini\bin\Debug\net10.0\TestC#Gemini.dll
+D:\scoala\Test_ssc\TestC#Gemini\TestC#Gemini\bin\Debug\net10.0\TestC#Gemini.pdb
+D:\scoala\Test_ssc\TestC#Gemini\TestC#Gemini\obj\Debug\net10.0\TestC#Gemini.dll
+D:\scoala\Test_ssc\TestC#Gemini\TestC#Gemini\obj\Debug\net10.0\refint\TestC#Gemini.dll
+D:\scoala\Test_ssc\TestC#Gemini\TestC#Gemini\obj\Debug\net10.0\TestC#Gemini.pdb
+D:\scoala\Test_ssc\TestC#Gemini\TestC#Gemini\obj\Debug\net10.0\TestC#Gemini.genruntimeconfig.cache
+D:\scoala\Test_ssc\TestC#Gemini\TestC#Gemini\obj\Debug\net10.0\ref\TestC#Gemini.dll
