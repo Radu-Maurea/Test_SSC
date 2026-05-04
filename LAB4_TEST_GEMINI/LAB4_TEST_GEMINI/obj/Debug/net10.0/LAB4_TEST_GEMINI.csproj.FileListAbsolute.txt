@@ -1,0 +1,15 @@
+D:\scoala\Test_ssc\LAB4_TEST_GEMINI\LAB4_TEST_GEMINI\bin\Debug\net10.0\LAB4_TEST_GEMINI.exe
+D:\scoala\Test_ssc\LAB4_TEST_GEMINI\LAB4_TEST_GEMINI\bin\Debug\net10.0\LAB4_TEST_GEMINI.deps.json
+D:\scoala\Test_ssc\LAB4_TEST_GEMINI\LAB4_TEST_GEMINI\bin\Debug\net10.0\LAB4_TEST_GEMINI.runtimeconfig.json
+D:\scoala\Test_ssc\LAB4_TEST_GEMINI\LAB4_TEST_GEMINI\bin\Debug\net10.0\LAB4_TEST_GEMINI.dll
+D:\scoala\Test_ssc\LAB4_TEST_GEMINI\LAB4_TEST_GEMINI\bin\Debug\net10.0\LAB4_TEST_GEMINI.pdb
+D:\scoala\Test_ssc\LAB4_TEST_GEMINI\LAB4_TEST_GEMINI\obj\Debug\net10.0\LAB4_TEST_GEMINI.GeneratedMSBuildEditorConfig.editorconfig
+D:\scoala\Test_ssc\LAB4_TEST_GEMINI\LAB4_TEST_GEMINI\obj\Debug\net10.0\LAB4_TEST_GEMINI.AssemblyInfoInputs.cache
+D:\scoala\Test_ssc\LAB4_TEST_GEMINI\LAB4_TEST_GEMINI\obj\Debug\net10.0\LAB4_TEST_GEMINI.AssemblyInfo.cs
+D:\scoala\Test_ssc\LAB4_TEST_GEMINI\LAB4_TEST_GEMINI\obj\Debug\net10.0\LAB4_TEST_GEMINI.csproj.CoreCompileInputs.cache
+D:\scoala\Test_ssc\LAB4_TEST_GEMINI\LAB4_TEST_GEMINI\obj\Debug\net10.0\LAB4_TEST_GEMINI.sourcelink.json
+D:\scoala\Test_ssc\LAB4_TEST_GEMINI\LAB4_TEST_GEMINI\obj\Debug\net10.0\LAB4_TEST_GEMINI.dll
+D:\scoala\Test_ssc\LAB4_TEST_GEMINI\LAB4_TEST_GEMINI\obj\Debug\net10.0\refint\LAB4_TEST_GEMINI.dll
+D:\scoala\Test_ssc\LAB4_TEST_GEMINI\LAB4_TEST_GEMINI\obj\Debug\net10.0\LAB4_TEST_GEMINI.pdb
+D:\scoala\Test_ssc\LAB4_TEST_GEMINI\LAB4_TEST_GEMINI\obj\Debug\net10.0\LAB4_TEST_GEMINI.genruntimeconfig.cache
+D:\scoala\Test_ssc\LAB4_TEST_GEMINI\LAB4_TEST_GEMINI\obj\Debug\net10.0\ref\LAB4_TEST_GEMINI.dll
